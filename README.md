@@ -9,7 +9,7 @@ Landing page oficial da academia Team Bela Vista, feita em HTML, CSS e JavaScrip
 <br>
 
 [![Ver site online](https://img.shields.io/badge/🌐_Ver_site_online-ff2a1a?style=for-the-badge)](https://academia-okanharenans-projects.vercel.app/)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge)](https://wa.me/message/TLSADP3SKYKCG1)
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -113,8 +113,8 @@ Configuração usada: *Framework Preset* **Other**, sem *Build Command* e sem *O
 | Telefone | `href="tel:..."` no `index.html` |
 | Tempo do carrossel | `setInterval(..., 7000)` no script (milissegundos) |
 
-## 📞 Link do site:
-- 🌐 Site: [academia-okanharenans-projects.vercel.app](https://academia-okanharenans-projects.vercel.app/)
+## 🌐 Link do site:
+- Site: [academia-okanharenans-projects.vercel.app](https://academia-okanharenans-projects.vercel.app/)
 
 ---
 
