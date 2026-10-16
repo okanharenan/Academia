@@ -16,7 +16,7 @@ Site 100% estático: sem build, sem dependências e sem backend.
 team-bela-vista/
 ├── index.html   # Página principal (imagens embutidas em base64)
 ├── style.css    # Estilos do site
-└── README.md    # Documentação
+
 ```
 
 ## Seções do site
